@@ -111,6 +111,6 @@ It does not constitute financial advice or investment recommendations.
 
 # Author
 
-Saifeddine El Kadiri
+Sifeddine El Kadiri
 
 GitHub: https://github.com/addicteduser04
