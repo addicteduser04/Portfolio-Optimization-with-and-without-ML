@@ -61,7 +61,7 @@ The project compares these approaches using quantitative finance techniques and 
 Clone the repository:
 
 ```bash
-git clone https://github.com/addicteduser04/Portfolio-Optimization-with-and-without-ML.git
+git clone "https://github.com/addicteduser04/Portfolio-Optimization-with-and-without-ML"
 ```
 
 Move into the project directory:
